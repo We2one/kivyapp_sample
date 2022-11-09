@@ -1,5 +1,5 @@
 # From https://github.com/marketplace/actions/buildozer-action
-name: Builder for Android
+name: Build
 on: [push, pull_request]
 
 jobs:
